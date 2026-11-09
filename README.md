@@ -1,16 +1,16 @@
 # Denver Jobs
 
-Open roles in Denver: 98 roles at 34 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=denver).** Last updated 2026-11-08.
+Open roles in Denver: 92 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=denver).** Last updated 2026-11-09.
 
-All 98 are listed below. Browse the newest on [warmada.com/jobs/denver](https://warmada.com/jobs/denver?utm_source=github&utm_medium=list&utm_campaign=denver).
+All 92 are listed below. Browse the newest on [warmada.com/jobs/denver](https://warmada.com/jobs/denver?utm_source=github&utm_medium=list&utm_campaign=denver).
 
-**By role:** Software Engineering (5) · Hardware Engineering (2) · Data (1) · Product Management (2) · Marketing (7) · Sales (19) · Customer Success (7) · Operations (9) · Finance (5) · HR & Recruiting (5) · Legal & Compliance (3) · Other (33)
+**By role:** Software Engineering (4) · Hardware Engineering (2) · Data (1) · Product Management (2) · Marketing (7) · Sales (17) · Customer Success (7) · Operations (9) · Finance (5) · HR & Recruiting (4) · Legal & Compliance (3) · Other (31)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Denver. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (5)
+## Software Engineering (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -18,7 +18,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [rowan.com](https://warmada.com/companies/rowan-com?utm_source=github&utm_medium=list&utm_campaign=denver) | HV/MV Electrical Engineering Manager | Denver, CO Office | Oct 28 | [Apply](https://jobs.ashbyhq.com/rowan/183a32d0-6c4f-430d-9157-9b15a04a9a62) · [Find the hiring manager](https://warmada.com/job/rowan-com-hv-mv-electrical-engineering-manager-d2283db1-2959-492f-8472-632722f4a30d?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Fastly](https://warmada.com/companies/fastly?utm_source=github&utm_medium=list&utm_campaign=denver) | Senior Engineering Manager, Edge Delivery | Denver, CO; New York City, NY; San Francisco, CA | Oct 27 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8300769) · [Find the hiring manager](https://warmada.com/job/fastly-senior-engineering-manager-edge-delivery-0a09b00d-e73f-49c6-b3c5-788b733d5cf1?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Banyan Software](https://warmada.com/companies/banyan-software?utm_source=github&utm_medium=list&utm_campaign=denver) | DevSecOps Engineer | Denver, CO, USA | Oct 27 | [Apply](https://job-boards.greenhouse.io/banyansoftware/jobs/5275492007) · [Find the hiring manager](https://warmada.com/job/banyan-software-devsecops-engineer-71b7ea11-fe75-4ef9-936b-769781fdb76f?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| Semgrep | Senior Engineering Manager, Guardian | San Francisco, Boston, New York, Denver | Oct 26 | [Apply](https://jobs.ashbyhq.com/semgrep/0ad27864-ce95-4797-ab5d-b24de8f78d94) · [Find the hiring manager](https://warmada.com/job/semgrep-senior-engineering-manager-guardian-ef7e0182-989b-4e0d-8689-b9a3968d9858?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
 ## Hardware Engineering (2)
 
@@ -52,7 +51,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Fastly](https://warmada.com/companies/fastly?utm_source=github&utm_medium=list&utm_campaign=denver) | Senior Technical Product Marketing Manager, Performance | Denver, CO; New York City, NY; San Francisco, CA | Nov 4 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8337806) · [Find the hiring manager](https://warmada.com/job/fastly-senior-technical-product-marketing-manager-performance-10b6d24b-228c-41b2-91d9-40ca65c4f208?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [candidhealth.com](https://warmada.com/companies/candidhealth-com?utm_source=github&utm_medium=list&utm_campaign=denver) | Product Marketing Manager | San Francisco (CA), Denver (CO), New York (NY) | Oct 29 | [Apply](https://jobs.ashbyhq.com/candidhealth/7baa50a0-9133-4f83-8b4e-6ce80ebf7015) · [Find the hiring manager](https://warmada.com/job/candidhealth-com-product-marketing-manager-34d6a440-f808-4001-aef7-2fe72ae56ec3?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
-## Sales (19)
+## Sales (17)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -73,8 +72,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=denver) | Sr. Customer Solutions Architect | Denver, Colorado, United States, AMER; USA - Austin (dbt); USA - New York (dbt) | Oct 28 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8047657003) · [Find the hiring manager](https://warmada.com/job/fivetran-sr-customer-solutions-architect-f65d6f25-92a6-4313-ad3a-ec88f17851ad?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=denver) | Customer Solutions Architect (Denver) | Denver, Colorado, United States, AMER | Oct 28 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8047327003) · [Find the hiring manager](https://warmada.com/job/fivetran-customer-solutions-architect-denver-883f69db-e2d4-4bfc-bf38-705d68d1c1a7?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=denver) | GTM Finance Manager | Denver, Colorado, United States, AMER | Oct 26 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8045175003) · [Find the hiring manager](https://warmada.com/job/fivetran-gtm-finance-manager-6dfe0ad9-da3f-4016-8dbf-471a7981fbbd?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=denver) | Sales Development Associate | Denver, CO (South) | Oct 26 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8325121) · [Find the hiring manager](https://warmada.com/job/equipmentshare-sales-development-associate-3f25458c-caf7-461b-bd41-dc79494dacc2?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| [Cortland](https://warmada.com/companies/cortland?utm_source=github&utm_medium=list&utm_campaign=denver) | Leasing &amp; Sales Consultant, Bilingual - Mint Urban Infinity | Denver, CO | Oct 26 | [Apply](https://job-boards.greenhouse.io/cortland/jobs/4465740009) · [Find the hiring manager](https://warmada.com/job/cortland-leasing-and-sales-consultant-bilingual-mint-urban-infinity-6b137f51-fe84-44c1-92d1-8b1333c0bb33?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
 ## Customer Success (7)
 
@@ -112,7 +109,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [magicschool.ai](https://warmada.com/companies/magicschool-ai?utm_source=github&utm_medium=list&utm_campaign=denver) | Accounting Manager | Denver | Oct 28 | [Apply](https://jobs.ashbyhq.com/magicschool/1928fb75-5165-436d-aa08-12f8baf01d31) · [Find the hiring manager](https://warmada.com/job/magicschool-ai-accounting-manager-d7f6df1d-3d22-45a9-8f51-a25564273335?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=denver) | Trading Specialist | Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY | Oct 26 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855) · [Find the hiring manager](https://warmada.com/job/robinhood-trading-specialist-d4418ef3-9048-4e0b-9f2b-d00e26da6371?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
-## HR & Recruiting (5)
+## HR & Recruiting (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -120,7 +117,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=denver) | HR Consultant, Ask An Expert | Denver, CO - Hybrid; Scottsdale, AZ - Hybrid | Nov 6 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8350346) · [Find the hiring manager](https://warmada.com/job/gusto-hr-consultant-ask-an-expert-c88f05f9-c393-4a56-a1e6-a57b5a1db0ba?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Judi Health](https://warmada.com/companies/judi-health?utm_source=github&utm_medium=list&utm_campaign=denver) | Recruiter (Contract) | Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States | Nov 4 | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5471444008) · [Find the hiring manager](https://warmada.com/job/judi-health-recruiter-contract-e99a203f-f5a2-4897-afcd-db693156c7b5?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Judi Health](https://warmada.com/companies/judi-health?utm_source=github&utm_medium=list&utm_campaign=denver) | VP, Total Rewards | Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States | Nov 3 | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5467215008) · [Find the hiring manager](https://warmada.com/job/judi-health-vp-total-rewards-ee763cf7-0c7d-4303-b569-2c25424706b7?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=denver) | Talent Acquisition Intern | Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Seattle, Washington, United States | Oct 26 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5463666008) · [Find the hiring manager](https://warmada.com/job/dlr-group-talent-acquisition-intern-e608ff8f-d18e-4010-b408-2b389b45bc86?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
 ## Legal & Compliance (3)
 
@@ -130,7 +126,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=denver) | Sr. Counsel, Employment | Bellevue, Washington; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | Oct 30 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8922120002) · [Find the hiring manager](https://warmada.com/job/databricks-sr-counsel-employment-5d0a901a-1db8-49ac-961d-6e90fb078726?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [rowan.com](https://warmada.com/companies/rowan-com?utm_source=github&utm_medium=list&utm_campaign=denver) | Legal Contracts Manager | Denver, CO Office | Oct 28 | [Apply](https://jobs.ashbyhq.com/rowan/01764ea6-a176-42a6-b1fa-9ee1f210d505) · [Find the hiring manager](https://warmada.com/job/rowan-com-legal-contracts-manager-fb53ae44-3475-4876-8174-71a0941f0597?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
-## Other (33)
+## Other (31)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -165,5 +161,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [rowan.com](https://warmada.com/companies/rowan-com?utm_source=github&utm_medium=list&utm_campaign=denver) | Data Center Mechanical Engineer | Denver, CO Office | Oct 27 | [Apply](https://jobs.ashbyhq.com/rowan/e5483314-154a-4c68-a255-5985458a98ed) · [Find the hiring manager](https://warmada.com/job/rowan-com-data-center-mechanical-engineer-afeb9af0-6612-4bfd-b7a2-3baec4a8165b?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [rowan.com](https://warmada.com/companies/rowan-com?utm_source=github&utm_medium=list&utm_campaign=denver) | Construction Cost Controls Manager | Denver, CO Office | Oct 27 | [Apply](https://jobs.ashbyhq.com/rowan/97ebf977-8627-441c-86c9-aa9d8b9705b4) · [Find the hiring manager](https://warmada.com/job/rowan-com-construction-cost-controls-manager-8c1a2ee5-e1f8-4fa6-8037-2c2ce7134539?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=denver) | CDL Delivery Driver - Roll Off/Containers | Denver, CO (North) | Oct 27 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8303262) · [Find the hiring manager](https://warmada.com/job/equipmentshare-cdl-delivery-driver-roll-off-containers-d2cd983c-6e36-454a-a2f5-f026bedc6fba?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| [Judi Health](https://warmada.com/companies/judi-health?utm_source=github&utm_medium=list&utm_campaign=denver) | PGY1 Managed Care Resident | Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States | Oct 26 | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5462288008) · [Find the hiring manager](https://warmada.com/job/judi-health-pgy1-managed-care-resident-15bd9405-db0a-4b75-ac21-14527e3a9329?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| [Judi Health](https://warmada.com/companies/judi-health?utm_source=github&utm_medium=list&utm_campaign=denver) | Senior Analyst, Analytics - Jumbo Insights | Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States | Oct 26 | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5462823008) · [Find the hiring manager](https://warmada.com/job/judi-health-senior-analyst-analytics-jumbo-insights-5ac78bf7-a6bb-47bd-bff7-1f48d145e697?utm_source=github&utm_medium=list&utm_campaign=denver) |
