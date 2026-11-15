@@ -1,10 +1,10 @@
 # Denver Jobs
 
-Open roles in Denver: 89 roles at 36 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=denver).** Last updated 2026-11-14.
+Open roles in Denver: 90 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=denver).** Last updated 2026-11-15.
 
-All 89 are listed below. Browse the newest on [warmada.com/jobs/denver](https://warmada.com/jobs/denver?utm_source=github&utm_medium=list&utm_campaign=denver).
+All 90 are listed below. Browse the newest on [warmada.com/jobs/denver](https://warmada.com/jobs/denver?utm_source=github&utm_medium=list&utm_campaign=denver).
 
-**By role:** Software Engineering (5) · Hardware Engineering (1) · Data (2) · Product Management (1) · Marketing (6) · Sales (21) · Customer Success (7) · Operations (8) · Finance (3) · HR & Recruiting (6) · Legal & Compliance (3) · Other (26)
+**By role:** Software Engineering (5) · Hardware Engineering (1) · Data (2) · Product Management (1) · Marketing (7) · Sales (21) · Customer Success (7) · Operations (8) · Finance (3) · HR & Recruiting (6) · Legal & Compliance (3) · Other (26)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Denver. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -39,10 +39,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Enova International](https://warmada.com/companies/enova-international?utm_source=github&utm_medium=list&utm_campaign=denver) | Lead Product Manager, Salesforce (Hybrid) | Denver, CO | Nov 6 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8356020) · [Find the hiring manager](https://warmada.com/job/enova-international-lead-product-manager-salesforce-hybrid-29f5b3a9-ca72-4513-b483-08270eb5fca7?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
-## Marketing (6)
+## Marketing (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| Intellistack | Lifecycle &amp; Digital Growth Marketing Manager | Denver, CO | Nov 12 | [Apply](https://jobs.ashbyhq.com/Intellistack/3a97a5c5-970a-4c85-8282-3f15f76dc894) · [Find the hiring manager](https://warmada.com/job/intellistack-lifecycle-and-digital-growth-marketing-manager-bf4f7b57-ebde-4511-99d1-78f9c6f34c8a?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=denver) | Lifecycle Marketing Manager | Denver, Colorado, United States, AMER | Nov 6 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8075947003) · [Find the hiring manager](https://warmada.com/job/fivetran-lifecycle-marketing-manager-eeb40124-eb16-49c8-b7fa-d436ac3f8876?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=denver) | Product Marketing Lead | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | Nov 6 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8357701) · [Find the hiring manager](https://warmada.com/job/gusto-product-marketing-lead-61ec698b-3aaf-4c8f-ab0a-49ea0a50310b?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=denver) | Senior Performance Marketing Manager, Paid Social | Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote | Nov 5 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8356810) · [Find the hiring manager](https://warmada.com/job/gusto-senior-performance-marketing-manager-paid-social-ec2bbb72-e6be-445b-a4e1-856318245e08?utm_source=github&utm_medium=list&utm_campaign=denver) |
