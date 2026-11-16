@@ -1,10 +1,10 @@
 # Denver Jobs
 
-Open roles in Denver: 90 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=denver).** Last updated 2026-11-15.
+Open roles in Denver: 89 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=denver).** Last updated 2026-11-16.
 
-All 90 are listed below. Browse the newest on [warmada.com/jobs/denver](https://warmada.com/jobs/denver?utm_source=github&utm_medium=list&utm_campaign=denver).
+All 89 are listed below. Browse the newest on [warmada.com/jobs/denver](https://warmada.com/jobs/denver?utm_source=github&utm_medium=list&utm_campaign=denver).
 
-**By role:** Software Engineering (5) · Hardware Engineering (1) · Data (2) · Product Management (1) · Marketing (7) · Sales (21) · Customer Success (7) · Operations (8) · Finance (3) · HR & Recruiting (6) · Legal & Compliance (3) · Other (26)
+**By role:** Software Engineering (5) · Hardware Engineering (1) · Data (2) · Product Management (1) · Marketing (7) · Sales (21) · Customer Success (7) · Operations (8) · Finance (3) · HR & Recruiting (6) · Legal & Compliance (3) · Other (25)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Denver. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -129,7 +129,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=denver) | Senior Commercial Counsel | Denver, Colorado, United States, AMER | Nov 9 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8198955003) · [Find the hiring manager](https://warmada.com/job/fivetran-senior-commercial-counsel-35c51cef-49c7-4f15-b2fd-4f867c721ce9?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [Rowan Digital Infrastructure](https://warmada.com/companies/rowan-digital-infrastructure?utm_source=github&utm_medium=list&utm_campaign=denver) | Data Center Compliance Analyst | Denver, CO Office | Nov 5 | [Apply](https://jobs.ashbyhq.com/rowan/12cb1658-024a-4b01-9ca0-1f94aa8ed959) · [Find the hiring manager](https://warmada.com/job/rowan-digital-infrastructure-data-center-compliance-analyst-b9ff3056-7441-41ed-a806-7b9640818d59?utm_source=github&utm_medium=list&utm_campaign=denver) |
 
-## Other (26)
+## Other (25)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -158,4 +158,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=denver) | People Tech Business Systems Analyst | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | Nov 4 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257482) · [Find the hiring manager](https://warmada.com/job/gusto-people-tech-business-systems-analyst-6b38fd00-9326-49e1-996b-707c44c79599?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | Simplesense | Network Engineer, Connectivity | Denver, CO | Nov 3 | [Apply](https://job-boards.greenhouse.io/simplesense/jobs/4473263009) · [Find the hiring manager](https://warmada.com/job/simplesense-network-engineer-connectivity-5a88ef71-a155-46b4-b3da-bcfb5b4739f4?utm_source=github&utm_medium=list&utm_campaign=denver) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=denver) | Traveling Tool Technician | Denver, CO (Tooling Solutions) | Nov 2 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8335286) · [Find the hiring manager](https://warmada.com/job/equipmentshare-traveling-tool-technician-16f8766f-76ff-4ffe-aa56-277b886971e3?utm_source=github&utm_medium=list&utm_campaign=denver) |
-| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=denver) | Traveling Technician - Site Solutuions | Denver, CO (North) | Nov 2 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8335278) · [Find the hiring manager](https://warmada.com/job/equipmentshare-traveling-technician-site-solutuions-ff94d0ad-3cf5-4c2c-82d0-d005516ea336?utm_source=github&utm_medium=list&utm_campaign=denver) |
